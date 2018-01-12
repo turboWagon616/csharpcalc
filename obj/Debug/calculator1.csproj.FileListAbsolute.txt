@@ -1,0 +1,9 @@
+C:\Users\corne\source\repos\calculator1\calculator1\bin\Debug\calculator1.exe
+C:\Users\corne\source\repos\calculator1\calculator1\bin\Debug\calculator1.pdb
+C:\Users\corne\source\repos\calculator1\calculator1\obj\Debug\calculator1.csprojResolveAssemblyReference.cache
+C:\Users\corne\source\repos\calculator1\calculator1\obj\Debug\calculator1.Properties.Resources.resources
+C:\Users\corne\source\repos\calculator1\calculator1\obj\Debug\calculator1.csproj.GenerateResource.Cache
+C:\Users\corne\source\repos\calculator1\calculator1\obj\Debug\calculator1.csproj.CoreCompileInputs.cache
+C:\Users\corne\source\repos\calculator1\calculator1\obj\Debug\calculator1.exe
+C:\Users\corne\source\repos\calculator1\calculator1\obj\Debug\calculator1.pdb
+C:\Users\corne\source\repos\calculator1\calculator1\obj\Debug\calculator1.CalculatorFrame.resources
